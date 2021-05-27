@@ -1,7 +1,7 @@
 
 > This REPO is working in progress, the documentation on this page would be updated as I go through all the steps. At the moment the versions used for this tutorial are quite old. 
 > The intention of this tutorial is to use vagrant with libvirt and update the application versions. 
-> I made a fork of the original repository made by [mmumshad](https://github.com/mmumshad/kubernetes-the-hard-way)'
+> I made a fork of the original repository made by [Mumshad Mannambeth](https://github.com/mmumshad/kubernetes-the-hard-way)'
 > 
 > 
 > > This tutorial is a modified version of the original developed by [Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way).
