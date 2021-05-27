@@ -3,7 +3,7 @@
 > The intention of this tutorial is to use vagrant with libvirt and update the application versions. 
 > I made a fork of the original repository made by [Mumshad Mannambeth](https://github.com/mmumshad/kubernetes-the-hard-way)'
 > 
-> 
+> ----------------------------------------------------------------------------------------------------------------------------
 > > This tutorial is a modified version of the original developed by [Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way).
 
 # Kubernetes The Hard Way On LibVirt
